@@ -1,4 +1,4 @@
-#Shortio - Simple URL Shortener
+# Shortio - Simple URL Shortener
 
 Download and Unzip the repository. <br>
 In the powershell, go to project directory and type "npm install".<br>
